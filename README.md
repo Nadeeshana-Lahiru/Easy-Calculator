@@ -49,7 +49,7 @@ This project is designed for beginners to easily understand how button clicks, v
 ---
 
 ## 📜 License
-
+📄 [License](./LICENSE.md): Proprietary – Permission Required
 
 ---
 
